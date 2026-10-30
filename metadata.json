@@ -1,0 +1,6 @@
+{
+  "name": "QS CETU LTD - Staff & Admin Portal",
+  "description": "Urubuga rwa QS CETU LTD aho abakozi batanga ibitekerezo n'ibibazo, ubuyobozi bukabikurikirana bukabikemura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
